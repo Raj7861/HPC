@@ -1,1 +1,1 @@
-./conv.cu
+./conv
