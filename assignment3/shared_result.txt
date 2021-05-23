@@ -1,0 +1,65 @@
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for shared: 0.168000 (ms)
+1560.38 Mpixels/sec
+Wrote './data/lena_bw_share_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for shared: 0.162000 (ms)
+1618.17 Mpixels/sec
+Wrote './data/image21_share_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for shared: 0.168000 (ms)
+1560.38 Mpixels/sec
+Wrote './data/man_share_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for shared: 0.179000 (ms)
+1464.49 Mpixels/sec
+Wrote './data/mandrill_share_out.pgm'
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for shared: 0.163000 (ms)
+1608.25 Mpixels/sec
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for shared: 0.163000 (ms)
+1608.25 Mpixels/sec
+Wrote './data/man_share_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for shared: 0.161000 (ms)
+1628.22 Mpixels/sec
+Wrote './data/image21_share_out.pgm'
+
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for shared: 0.170000 (ms)
+1542.02 Mpixels/sec
+Wrote './data/lena_bw_share_out.pgm'
+
+
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for shared: 0.167000 (ms)
+1569.72 Mpixels/sec
+Wrote './data/mandrill_share_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for shared: 0.163000 (ms)
+1608.25 Mpixels/sec
+Wrote './data/man_share_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for shared: 0.164000 (ms)
+1598.44 Mpixels/sec
+Wrote './data/image21_share_out.pgm'
+
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for shared: 0.174000 (ms)
+1506.57 Mpixels/sec
+Wrote './data/lena_bw_share_out.pgm'
+
+
+

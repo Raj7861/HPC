@@ -1,0 +1,68 @@
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for global:  0.156000(ms)
+1680.41 Mpixels/sec
+Wrote './data/lena_bw_global_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for global: 0.159000 (ms)
+1648.70 Mpixels/sec
+Wrote './data/image21_global_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for global: 0.166000 (ms)
+1579.18 Mpixels/sec
+Wrote './data/man_global_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for global: 0.154000 (ms)
+1702.23 Mpixels/sec
+Wrote './data/mandrill_global_out.pgm'
+
+llllllllllllllllllllllllllllllllllll
+
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for global: 0.163000 (ms)
+1608.25 Mpixels/sec
+Wrote './data/lena_bw_global_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for global: 0.157000 (ms)
+1669.71 Mpixels/sec
+Wrote './data/image21_global_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for global: 0.165000 (ms)
+1588.75 Mpixels/sec
+Wrote './data/man_global_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for global: 0.154000 (ms)
+1702.23 Mpixels/sec
+Wrote './data/mandrill_global_out.pgm'
+
+llllllllllllllllllllllllllllllllllllllllllllll
+
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for global: 0.161000 (ms)
+1628.22 Mpixels/sec
+Wrote './data/lena_bw_global_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for global: 0.159000 (ms)
+1648.70 Mpixels/sec
+Wrote './data/image21_global_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for global: 0.157000 (ms)
+1669.71 Mpixels/sec
+Wrote './data/man_global_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for global: 0.156000 (ms)
+1680.41 Mpixels/sec
+Wrote './data/mandrill_global_out.pgm'
+
+
+
+
+

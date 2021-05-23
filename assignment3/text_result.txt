@@ -1,0 +1,42 @@
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for texture: 0.078000 (ms)
+3360.82 Mpixels/sec
+Wrote './data/lena_bw_texture_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for texture: 0.078000 (ms)
+3360.82 Mpixels/sec
+Wrote './data/image21_texture_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for texture: 0.084000 (ms)
+3120.76 Mpixels/sec
+Wrote './data/man_texture_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for texture: 0.078000 (ms)
+3360.82 Mpixels/sec
+Wrote './data/mandrill_texture_out.pgm'
+
+
+llllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+Loaded 'lena_bw.pgm', 512 x 512 pixels
+Processing time for texture: 0.085000 (ms)
+3084.05 Mpixels/sec
+Wrote './data/lena_bw_texture_out.pgm'
+
+Loaded 'image21.pgm', 512 x 512 pixels
+Processing time for texture: 0.078000 (ms)
+3360.82 Mpixels/sec
+Wrote './data/image21_texture_out.pgm'
+
+Loaded 'man.pgm', 512 x 512 pixels
+Processing time for texture: 0.079000 (ms)
+3318.28 Mpixels/sec
+Wrote './data/man_texture_out.pgm'
+
+Loaded 'mandrill.pgm', 512 x 512 pixels
+Processing time for texture: 0.078000 (ms)
+3360.82 Mpixels/sec
+Wrote './data/mandrill_texture_out.pgm'
